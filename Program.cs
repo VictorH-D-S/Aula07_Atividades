@@ -65,9 +65,9 @@ namespace Aula07_Atividades
 
             if (media >= 6)
             {
-                Console.WriteLine("ALUNO APROVADE!");
+                Console.WriteLine("ALUNO APROVADO!");
             }
-            Console.WriteLine("ALUNO REPROVADE! VEJO VOCÊ ANO QUE VEM!");
+            Console.WriteLine("ALUNO REPROVADO! VEJO VOCÊ ANO QUE VEM!");
 
             Console.ReadKey();
         }
